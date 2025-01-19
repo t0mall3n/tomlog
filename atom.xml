@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TOMLOG</title>
+  
+  
+  <link href="https://t0mall3n.github.io/tomlog/atom.xml" rel="self"/>
+  
+  <link href="https://t0mall3n.github.io/tomlog/"/>
+  <updated>2025-01-19T23:19:04.933Z</updated>
+  <id>https://t0mall3n.github.io/tomlog/</id>
+  
+  <author>
+    <name>toma</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about</title>
+    <link href="https://t0mall3n.github.io/tomlog/2025/01/20/about/"/>
+    <id>https://t0mall3n.github.io/tomlog/2025/01/20/about/</id>
+    <published>2025-01-19T23:19:06.000Z</published>
+    <updated>2025-01-19T23:19:04.933Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
